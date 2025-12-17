@@ -3,4 +3,4 @@
 ## 📸 Preview  
 ![Portfolio Screenshot](./assets/img/preview.png)
 
-[🔗 Visit Website](https://dixitparmar-dev.github.io/my-portfolio/)
+[🔗 Visit Website](https://xdzerone.github.io/My-Portfolio/)

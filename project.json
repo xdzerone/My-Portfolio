@@ -5,7 +5,7 @@
       "title": "Quietune",
       "description": "A calm and minimal music player for your desktop.",
       "technologies": ["HTML/CSS", "JavaScript", "electron.js"],
-      "link": "https://github.com/dixitparmar-dev/Quietune"
+      "link": "https://xdzerone.github.io/Quietune/"
     },
     {
       "id": 2,
@@ -22,4 +22,5 @@
       "link": "https://github.com/dixitparmar-dev/task-list?tab=readme-ov-file"
     }
   ]
+
 }
